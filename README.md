@@ -1,3 +1,3 @@
 # development
-This is very learning purpose only
+This is only learning purpose
 This can be excutable
